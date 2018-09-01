@@ -10,3 +10,5 @@ http://www.fpgadeveloper.com/2014/08/using-the-axi-dma-in-vivado.html
 https://opencores.org/projects?lang=2&stage=0&license=0&wishbone_version=0
 
 https://opencores.org/projects?lang=2&stage=0&license=0&wishbone_version=0
+
+https://www.h-schmidt.net/FloatConverter/IEEE754.html
